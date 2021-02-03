@@ -15,9 +15,12 @@
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
+    "bookshelf": "^1.2.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "gh-pages": "^3.1.0",
+    "knex": "^0.21.17",
+    "mysql": "^2.18.1",
     "nodemon": "^2.0.7"
   }
 }
